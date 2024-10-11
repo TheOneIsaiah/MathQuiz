@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\idora\source\repos\IJD.MathQuiz\IJD.MathQuiz\Main.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  IJD.MathQuiz.vcxproj -> C:\Users\idora\source\repos\IJD.MathQuiz\x64\Debug\IJD.MathQuiz.exe
